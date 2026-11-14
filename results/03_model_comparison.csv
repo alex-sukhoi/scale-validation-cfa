@@ -1,0 +1,4 @@
+"model","items","chisq_df","cfi","tli","rmsea","srmr","wrmr"
+"5-factor initial",35,2.589,0.91,0.902,0.074,0.087,1.474
+"5-factor refined",20,1.962,0.972,0.967,0.057,0.055,0.925
+"4-factor refined (without GM)",17,2.307,0.972,0.967,0.067,0.057,0.964
